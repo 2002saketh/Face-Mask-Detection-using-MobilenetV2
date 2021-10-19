@@ -126,3 +126,4 @@ while True:
 # do a bit of cleanup
 cv2.destroyAllWindows()
 vs.stop()
+#This code is contributed by Maddali Saketh. Copyrights are subjected
